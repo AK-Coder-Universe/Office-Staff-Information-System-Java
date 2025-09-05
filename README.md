@@ -14,6 +14,7 @@ Java Program Explanation: Staff and OfficeStaff Example
 - Creates an array of OfficeStaff objects.
 - Loops to input id, name, and department for each staff member.
 - Calls displayDetails() on each object to print all details.
+- 
 Example Run:
 Input:
 Enter number of Office Staff Member: 2
