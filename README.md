@@ -14,21 +14,8 @@ Java Program Explanation: Staff and OfficeStaff Example
 - Creates an array of OfficeStaff objects.
 - Loops to input id, name, and department for each staff member.
 - Calls displayDetails() on each object to print all details.
-- 
-Example Run:
-Input:
-Enter number of Office Staff Member: 2
-ID: 101, Name: Alice, Department: HR
-ID: 102, Name: Bob, Department: Finance
-Output:
-ID : 101
-Name : Alice
-Department : HR
-----------------------------
-ID : 102
-Name : Bob
-Department : Finance
-----------------------------
+
+
 Key Concepts:
 1. Abstraction – Staff is abstract, cannot be instantiated directly.
 2. Inheritance – OfficeStaff inherits from Staff.
